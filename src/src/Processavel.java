@@ -1,0 +1,4 @@
+interface Processavel {
+    void processarPagamento();
+}
+
